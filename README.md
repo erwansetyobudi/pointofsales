@@ -1,4 +1,3 @@
-Berikut **README.md** siap-tempel untuk GitHub (tinggal copy–paste). Aku buat lengkap: requirement, instalasi (Laragon), konfigurasi DB, akun default, struktur folder, fitur, troubleshooting, dan catatan keamanan.
 
 ---
 
@@ -266,5 +265,4 @@ Bebas dipakai untuk kebutuhan internal usaha. (Tambahkan lisensi sesuai kebutuha
 
 ---
 
-Kalau kamu kasih aku **nama repo**, **nama database**, dan **path config DB kamu** (misal `app/config.php` atau `app/db.php`), aku bisa rapikan README ini supaya 100% sesuai struktur final proyekmu.
-```
+
